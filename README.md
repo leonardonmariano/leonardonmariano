@@ -10,7 +10,7 @@
 
 ### 🧠 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,sql,vscode,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress&theme=dark" />
 </div>
 
 ---
