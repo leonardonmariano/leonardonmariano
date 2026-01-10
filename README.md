@@ -12,6 +12,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress&theme=dark" />
 </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sql" />
+</div>
 
 ---
 
