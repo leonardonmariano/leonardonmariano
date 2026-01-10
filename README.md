@@ -1,4 +1,4 @@
-## 👋 Fala! Eu sou o Leonardo
+## 👋 Olá! Eu sou o Leonardo
 
 💻 Desenvolvedor Web & de Sistemas (Dev Júnior)  
 🎓 Técnico em Análise e Desenvolvimento de Sistemas (ADS)  
@@ -17,11 +17,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leonardo-ADS-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ADS-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://komarev.com/ghpvc/?username=Leonardo-ADS-Dev&color=blue&style=flat-square" />
+</div>
 
 ---
 
-### 📫 Contato
- LinkedIn: https://www.linkedin.com/in/leonardo-nascimento-mariano
+## 📫 Contato
+
+- 💼 **LinkedIn:** [linkedin.com/in/leonardo-nascimento-mariano](https://www.linkedin.com/in/leonardo-nascimento-mariano)
+- 📧 **Gmail:** leonardonmariano07@gmail.com
+- 📸 **Instagram:** [@leoo_nasc_](https://www.instagram.com/leoo_nasc_)
