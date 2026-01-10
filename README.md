@@ -12,21 +12,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress&theme=dark" />
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=sql" />
-</div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-ADS-Dev&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ADS-Dev&layout=compact&theme=tokyonight"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Leonardo-ADS-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ADS-Dev&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 ---
 
 ### 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/leonardo-nascimento-mariano
+ LinkedIn: https://www.linkedin.com/in/leonardo-nascimento-mariano
