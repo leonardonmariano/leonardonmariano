@@ -1,10 +1,10 @@
-## 👋 Olá! Eu sou o Leonardo
+## 👋 Hello! I’m Leonardo.
 
-💻 Desenvolvedor Web & de Sistemas (Dev Júnior)  
-🎓 Técnico em Análise e Desenvolvimento de Sistemas (ADS)  
-🚀 Atualmente atuando como Desenvolvedor Júnior  
-🏆 Campeão Estadual de Robótica – TI & Inovação  
-📱 Experiência com FlutterFlow para desenvolvimento de aplicações mobile (low-code)
+💻 Web & Systems Developer | Junior
+🎓 Technical Degree in Systems Analysis and Development (ADS)
+🚀 Currently working as a Junior Developer
+🏆 State Robotics Champion – IT & Innovation
+📱 Experience with FlutterFlow for low-code mobile app development
 
 ---
 
