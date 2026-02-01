@@ -1,14 +1,14 @@
 ## 👋 Hello! I’m Leonardo.
 
-💻 Web & Systems Developer | Junior
-🎓 Technical Degree in Systems Analysis and Development (ADS)
-🚀 Currently working as a Junior Developer
-🏆 State Robotics Champion – IT & Innovation
-📱 Experience with FlutterFlow for low-code mobile app development
+💻 Junior Web & Systems Developer 
+🎓 Technical Degree in Systems Analysis and Development (ADS)  
+🚀 Currently working on projects as a Junior Developer  
+🏆 State Robotics Champion – IT & Innovation  
+📱 Experience with FlutterFlow for low-code mobile app development.
 
 ---
 
-### 🧠 Tecnologias
+### 🧠 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,wordpress&theme=dark" />
 </div>
@@ -22,8 +22,8 @@
 
 ---
 
-## 📫 Contato
+## 📫 Get in Touch
 
 - 💼 **LinkedIn:** [Leonardo Nascimento Mariano](https://www.linkedin.com/in/leonardonm07)
-- 📧 **Gmail:** [leonardonmariano07@gmail.com](mailto:leonardonmariano07@gmail.com)
+- 📧 **Email:** [leonardonmariano07@gmail.com](mailto:leonardonmariano07@gmail.com)
 - 📸 **Instagram:** [@leoo_nasc_](https://www.instagram.com/leoo_nasc_)
