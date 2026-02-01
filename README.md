@@ -25,5 +25,5 @@
 ## 📫 Contato
 
 - 💼 **LinkedIn:** [leonardonm07](https://www.linkedin.com/in/leonardonm07)
-- 📧 **Gmail:** leonardonmariano07@gmail.com
+- 📧 **Gmail:** [leonardonmariano07@gmail.com](mailto:leonardonmariano07@gmail.com)
 - 📸 **Instagram:** [@leoo_nasc_](https://www.instagram.com/leoo_nasc_)
