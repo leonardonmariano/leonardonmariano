@@ -24,6 +24,6 @@
 
 ## 📫 Contato
 
-- 💼 **LinkedIn:** [linkedin.com/in/leonardo-nascimento-mariano](https://www.linkedin.com/in/leonardo-nascimento-mariano)
+- 💼 **LinkedIn:** [linkedin.com/in/leonardo-nascimento-mariano](www.linkedin.com/in/leonardonm07)
 - 📧 **Gmail:** leonardonmariano07@gmail.com
 - 📸 **Instagram:** [@leoo_nasc_](https://www.instagram.com/leoo_nasc_)
