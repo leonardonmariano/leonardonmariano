@@ -1,14 +1,3 @@
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leoo_nasc_)
-[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardonmariano07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardonm07)
-
-</div>
-
 ---
 
 # 👋 Hello! I’m Leonardo
@@ -29,17 +18,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-ADS-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ADS-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
+### 📊 GitHub Stats <div align="center"> <img src="https://komarev.com/ghpvc/?username=Leonardo-ADS-Dev&color=blue&style=flat-square" /> </div> ---
 
 ## 👀 Profile Views
 
@@ -50,6 +29,18 @@
 ---
 
 ## 📫 Get in Touch
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leoo_nasc_)
+[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardonmariano07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardonm07)
+
+</div>
+
 
 - 💼 LinkedIn: https://www.linkedin.com/in/leonardonm07  
 - 📧 Email: leonardonmariano07@gmail.com  
