@@ -18,14 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Leonardo-ADS-Dev&color=blue&style=flat-square" /> 
-</div>
-
----
-
 ## 👀 Profile Views
 
 <div align="center">
