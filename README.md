@@ -4,7 +4,7 @@
 
 💻 Junior Web & Systems Developer  
 🎓 Technical Degree in Systems Analysis and Development (ADS)  
-🚀 Currently working on projects as a Junior Developer  
+🚀 Currently working on projects as a Junior Developer.  
 🏆 State Robotics Champion – IT & Innovation  
 📱 Experience with FlutterFlow for low-code mobile app development.
 
