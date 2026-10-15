@@ -1,6 +1,25 @@
+## 👾 Hello! I’m Leonardo
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/leonardonmariano/leonardonmariano/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/leonardonmariano/leonardonmariano/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/leonardonmariano/leonardonmariano/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</div>
+
 ---
 
-# 👋 Hello! I’m Leonardo
+# 👋 Who am I?
 
 💻 Junior Web & Systems Developer  
 🎓 Technical Degree in Systems Analysis and Development (ADS)  
@@ -21,7 +40,9 @@
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonardo-ADS-Dev&color=blue&style=for-the-badge"/>
+  
+<img src="https://komarev.com/ghpvc/?username=leonardonmariano&color=6e7681&style=for-the-badge"/>
+
 </div>
 
 ---
@@ -30,8 +51,11 @@
 
 <div align="center">
 
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-159568?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leonardonmariano.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardonm07)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leoo_nasc_)
-[![Gmail](https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardonmariano07@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardonmariano07@gmail.com)
+
 
 </div>
