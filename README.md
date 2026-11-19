@@ -22,7 +22,7 @@
 # 👋 Who am I?
 
 💻 Junior Web & Systems Developer  
-🎓 Technical Degree in Systems Analysis and Development (ADS)  
+🎓 Systems Development Technician (2025) · Computer Science student at Dom Helder  
 🚀 Currently working on projects as a Junior Developer.  
 🏆 State Robotics Champion – IT & Innovation  
 📱 Experience with FlutterFlow for low-code mobile app development.
